@@ -12,3 +12,6 @@ This page wants to be a point of reference for the Sifchain community. The inten
 
 ## Node Snapshot services
 - [Snapshot Server](https://polkachu.com/tendermint_snapshots/sifchain). Developed by [Polkachu](https://polkachu.com/).
+
+## Block explorers
+- [NG Block Explorer](https://sifchain.explorers.guru/). Developed by [Nodes Guru](https://nodes.guru/).
