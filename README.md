@@ -15,3 +15,5 @@ This page wants to be a point of reference for the Sifchain community. The inten
 
 ## Block explorers
 - [NG Block Explorer](https://sifchain.explorers.guru/). Developed by [Nodes Guru](https://nodes.guru/).
+- [Mintscan Block Explorer](https://www.mintscan.io/sifchain/). Developed by [Cosmostation](https://www.cosmostation.io/).
+- [Ping Explorer](https://ping.pub/sifchain). Developed by [Ping Pub](https://github.com/ping-pub).
