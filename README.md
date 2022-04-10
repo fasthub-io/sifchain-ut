@@ -13,5 +13,7 @@ This page wants to be a point of reference for the Sifchain community. The inten
 ## Node Snapshot services
 - [Snapshot Server](https://polkachu.com/tendermint_snapshots/sifchain). Developed by [Polkachu](https://polkachu.com/).
 
-## Sifchain blockchain explorer
+## Blockchain explorer
 - [NG Explorer](https://sifchain.explorers.guru/) for Sifchain. Developed by [Nodes Guru](https://stake.nodes.guru/).
+- [Mintscan Block Explorer](https://www.mintscan.io/sifchain/). Developed by [Cosmostation](https://www.cosmostation.io/).
+- [Ping Explorer](https://ping.pub/sifchain). Developed by [Ping Pub](https://github.com/ping-pub).
